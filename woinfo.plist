@@ -11,7 +11,7 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>http://111.202.45.55:8038/wo1028.ipa</string>
+						<string>https://111.202.45.55:8443/wo1028.ipa</string>
 						
 					</dict>
 					<dict>
@@ -20,7 +20,7 @@
 						<key>needs-shine</key>
 						<false/>
 						<key>url</key>
-						<string>http://111.202.45.55:8038/img/cu.png</string>
+						<string>https://111.202.45.55:8443/img/cu.png</string>
 						
 					</dict>
 				</array>
