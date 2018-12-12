@@ -25,10 +25,29 @@
 					</dict>
 				</array>
 				<key>metadata</key>
+				
 				<dict>
-					<key>bundle-identifier</key>
+				<key>CFBundleURLTypes</key>
+					<array>
+						<dict>
+							<key>CFBundleURLName</key>
+							<string>com.d-heaven.mkey3g</string>
+							<key>CFBundleURLSchemes</key>
+							<array>
+								<string>dhmkey3g</string>
+							</array>
+						</dict>
+						<dict>
+							<key>CFBundleURLSchemes</key>
+							<array>
+								<string>CucsiPuYuanSuiWoxingr</string>
+							</array>
+						</dict>
+					</array>
 					
-					<string>dhmkey3g</string>
+					<key>bundle-identifier</key>
+					<string>com.zw.idep.iphonewobiz</string>
+					
 					<key>bundle-version</key>
 					<string>1.9.3</string>
 					<key>kind</key>
